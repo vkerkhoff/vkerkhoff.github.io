@@ -1,1 +1,27 @@
 theme: jekyll-theme-tactile
+
+# Site settings
+title: Vladimir Kerkhoff
+email: vladimir@kerkhoff.nl
+description: The personal website of Vladimir Kerkhoff, Certified Magento Developer.
+baseurl: "" 
+url: ""
+
+# Identity
+your-name: Vladimir Kerkhoff
+your-title: Certified Magento Developer
+
+# Social settings
+avatar_url: https://www.gravatar.com/avatar/4c259c8faf621a04a489aa2f2497fc43?s=122
+500px_url:
+facebook_url: https://www.facebook.com/vladimir.kerkhoff
+github_url: https://github.com/vkerkhoff
+googleplus_url:
+instagram_url: https://www.instagram.com/vkerkhoff
+linkedin_url: https://www.linkedin.com/in/vladimirkerkhoff
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/vkerkhoff
+
+# Build settings
+markdown: kramdown
