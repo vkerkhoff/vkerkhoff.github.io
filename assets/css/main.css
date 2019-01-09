@@ -743,10 +743,13 @@
 				ul.icons li a:before {
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: FontAwesome;
+					font-family: "Font Awesome 5 Free";
+  					font-weight: 400;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
+					font-variant: normal;
+  					text-rendering: auto;
 				}
 
 				ul.icons li a:before {
