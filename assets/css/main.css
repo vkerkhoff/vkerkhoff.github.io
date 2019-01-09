@@ -740,7 +740,7 @@
 				white-space: nowrap;
 			}
 
-				ul.icons li a:before {
+				ul.icons li a.skip:before {
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
 					font-family: "Font Awesome 5 Brands";
