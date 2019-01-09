@@ -744,9 +744,7 @@
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
 					font-family: "Font Awesome 5 Free";
-  					font-weight: 400;
-					font-style: normal;
-					font-weight: normal;
+  					font-weight: 400 !important;
 					text-transform: none !important;
 					font-variant: normal;
   					text-rendering: auto;
